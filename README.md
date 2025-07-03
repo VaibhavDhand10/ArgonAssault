@@ -1,6 +1,6 @@
 # Argon Assault – 3D Rail Shooter Game 🎮
 
-This is a 3D on-rails shooter game made using Unity as part of the [GameDev.tv Unity 3D course on Udemy](https://www.udemy.com/course/unitycourse/). The project focuses on animation-driven gameplay and hands-on implementation of core Unity systems like prefabs, audio, and enemy wave logic.
+This is a 3D on-rails shooter game made using Unity as part of the [GameDev.tv Unity 3D course on Udemy](https://www.udemy.com/course/unitycourse2/learn/lecture/46455549?start=15#overview). The project focuses on animation-driven gameplay and hands-on implementation of core Unity systems like prefabs, audio, and enemy wave logic.
 
 ## 🚀 Features
 
@@ -19,7 +19,6 @@ This is a 3D on-rails shooter game made using Unity as part of the [GameDev.tv U
 - Unity 3D
 - C#
 - Unity Animation Window
-- Audio Mixer
 - Unity Terrain Tools
 
 ## 🎓 Credits
